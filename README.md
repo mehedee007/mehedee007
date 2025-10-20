@@ -16,9 +16,9 @@ I enjoy building reliable web applications and automating workflows for business
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehedeeHasan&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehedee007&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehedeeHasan&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedee007&layout=compact&theme=tokyonight)
 
 ---
 
